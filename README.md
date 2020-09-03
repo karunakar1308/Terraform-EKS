@@ -12,6 +12,7 @@ chmod +x heptio-authenticator-aws_0.3.0_linux_amd64
 sudo mv heptio-authenticator-aws_0.3.0_linux_amd64 /usr/local/bin/heptio-authenticator-aws
 
 #Terraform apply
+
 terraform init
 terraform apply
 
